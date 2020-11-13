@@ -161,7 +161,7 @@
 */
 .top1{
     font-weight: 100;
-    font-family: sans-serif;
+    font-family: 'Roboto',sans-serif;
     text-align: center;
     padding: 30px;
     margin-top: 20px;
@@ -170,7 +170,7 @@
 }
 .middle1{
     font-weight: 700;
-    font-family: serif;
+    font-family: 'Roboto',serif;
     text-align: center;
     padding-left: 30px;
     margin: 10px auto;
@@ -178,7 +178,7 @@
 }
 .container11{
     font-weight: 400;
-    font-family: serif;
+    font-family: 'Roboto',serif;
     text-align: center;
     padding-left: 30px;
     margin: 10px auto;
@@ -187,7 +187,7 @@
 }
 .container12{
     font-weight: 400;
-    font-family: sans-serif;
+    font-family: 'Roboto',sans-serif;
     text-align: center;
     padding: 20px;
     margin: 10px auto;
@@ -195,7 +195,7 @@
 }
 .container13{
     font-weight: 400;
-    font-family: sans-serif;
+    font-family: 'Roboto',sans-serif;
     text-align: center;
     padding: 10px;
     margin: 10px auto;
@@ -203,7 +203,7 @@
 }
 .container14{
     font-weight: 400;
-    font-family: serif;
+    font-family: 'Roboto',serif;
     text-align: center;
     padding: 5px;
     margin: 10px auto;
@@ -211,7 +211,7 @@
 }
 .container15{
     font-weight: 400;
-    font-family: sans;
+    font-family: 'Roboto',serif;
     text-align: center;
     padding: 10px;
     margin: 10px auto;
@@ -219,7 +219,7 @@
 }
 .container16{
     font-weight: 400;
-    font-family: sans-serif;
+    font-family: 'Roboto',sans-serif;
     text-align: center;
     padding: 15px;
     margin: 10px auto;
@@ -227,7 +227,7 @@
 }
 .closing-content1{
     font-weight: 400;
-    font-family: sans-serif;
+    font-family: 'Roboto',sans-serif;
     text-align: center;
     padding: 15px;
     margin: 10px auto;
